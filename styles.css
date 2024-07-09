@@ -56,6 +56,9 @@ body {
   nav ul li:nth-child(6) a:hover {
       background-color: #D6FF33; /* Cambia a un color diferente para el sexto enlace */
   }
+nav ul li:nth-child(7) a:hover {
+    background-color: #0cff8a; /* Cambia a un color diferente para el sexto enlace */
+}
   
   /* Estilos del contenido principal */
   main {
